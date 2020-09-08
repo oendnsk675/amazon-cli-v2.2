@@ -1,7 +1,5 @@
 ###############   credit  ################
-#     jika mau recode,jangann hapus      #
-#  				credit ini 				 #
-#		   checker cli amazon v2		 #
+#		   checker cli amazon v2.2		 #
 #			    created by 				 #
 #		  sayidina ahmadal qososyi 	 	 #
 #			  eastlombok team 	 		 #
