@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 ###############   credit  ################
 #		   checker cli amazon v2.2		 #
 #			    created by 				 #
